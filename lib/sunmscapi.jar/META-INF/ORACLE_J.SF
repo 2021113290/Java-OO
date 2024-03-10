@@ -1,0 +1,77 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: t9MftP2PfNKH/DLKCG/XxFZwoUo=
+Created-By: 1.6.0_26 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: uFxD0a62/3qh+Xhse31Khxc+fgA=
+
+Name: sun/security/mscapi/RSAKeyPairGenerator.class
+SHA1-Digest: NtTWILOTTVjeo/tJhvqS/Ca9bqw=
+
+Name: sun/security/mscapi/RSASignature$SHA256.class
+SHA1-Digest: K6IbMFXQFv2I0OnUs6F1gOj/3ko=
+
+Name: sun/security/mscapi/KeyStore$MY.class
+SHA1-Digest: WevxkPcsz5pRyQUbnvOxONomrmU=
+
+Name: sun/security/mscapi/RSAPrivateKey.class
+SHA1-Digest: KYK1YaJ05sx8A3utMye/NJDTqSw=
+
+Name: sun/security/mscapi/RSACipher.class
+SHA1-Digest: t1+Q9iaOX/D9cNRQkPbaIls9z8g=
+
+Name: sun/security/mscapi/KeyStore$1.class
+SHA1-Digest: bNiPfaUVXNdSswI4yDO8mTgmNEg=
+
+Name: sun/security/mscapi/SunMSCAPI$1.class
+SHA1-Digest: 7UJNGPQDfAYqr1vURbbtJt1CS4M=
+
+Name: sun/security/mscapi/KeyStore$KeyEntry.class
+SHA1-Digest: LIlqmYch02WXf00DHob17G37dRA=
+
+Name: sun/security/mscapi/SunMSCAPI.class
+SHA1-Digest: m//KlQxaBIh4m2uuaqiL7GDXGAg=
+
+Name: sun/security/mscapi/RSASignature$SHA512.class
+SHA1-Digest: z4y8tyyPzrNHhZKyRKEgPYQUTx4=
+
+Name: source_tips
+SHA1-Digest: Gpw35aCA3ogrIlyurfhYGlTxOLM=
+
+Name: sun/security/mscapi/Key$NativeHandles.class
+SHA1-Digest: Ax3dtp3Kd6eyReFbDbn8ZeDSZLE=
+
+Name: sun/security/mscapi/RSAKeyPair.class
+SHA1-Digest: xQQsO8vn7KMuwtmaO6QlDpd01mw=
+
+Name: sun/security/mscapi/RSASignature$SHA384.class
+SHA1-Digest: AlyLPknIw7kx9B0/ZIl8iZwtK3Y=
+
+Name: sun/security/mscapi/RSASignature$Raw.class
+SHA1-Digest: 1KHnBchDLxV2JaK+A7gGw8dusKc=
+
+Name: sun/security/mscapi/RSASignature.class
+SHA1-Digest: rV69vQWsW6WGT6pmuNZQ2qt0aJQ=
+
+Name: sun/security/mscapi/PRNG.class
+SHA1-Digest: SntAj3qX/j/xuVQku1hZ6AWOP2o=
+
+Name: sun/security/mscapi/RSAPublicKey.class
+SHA1-Digest: azOSig3tHlJLCFzojW2YbxNgsiQ=
+
+Name: sun/security/mscapi/Key.class
+SHA1-Digest: fYOiwjqKYrQw+aadnY2/ThZWM6I=
+
+Name: sun/security/mscapi/RSASignature$MD2.class
+SHA1-Digest: kj0XPI+HAHWlBZZnT9ZORAYh+ao=
+
+Name: sun/security/mscapi/KeyStore$ROOT.class
+SHA1-Digest: WLPlop15/PABX5AubbH26fw97Lo=
+
+Name: sun/security/mscapi/RSASignature$MD5.class
+SHA1-Digest: LTIQTvKYR8hTEJeP3TCQ2NEL31c=
+
+Name: sun/security/mscapi/RSASignature$SHA1.class
+SHA1-Digest: brEx0pzLULX7O46JMuWht0pciVs=
+
+Name: sun/security/mscapi/KeyStore.class
+SHA1-Digest: z16ZfqMQ4KSz/3GIuYtrfR41PPQ=
+

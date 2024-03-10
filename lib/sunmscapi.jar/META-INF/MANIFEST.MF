@@ -1,0 +1,83 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Oracle Corporation
+Implementation-Title: Java Runtime Environment
+Implementation-Version: 1.8.0_161
+Implementation-Vendor-Id: com.sun
+Specification-Vendor: Oracle Corporation
+Specification-Title: Java Platform API Specification
+Created-By: 1.7.0_07 (Oracle Corporation)
+Specification-Version: 1.8
+Extension-Name: javax.crypto
+
+Name: sun/security/mscapi/RSAKeyPairGenerator.class
+SHA1-Digest: qgVO2h7t1su6rKq2d5J9MMCKcYw=
+
+Name: sun/security/mscapi/RSASignature$SHA256.class
+SHA1-Digest: 4UotyTddvpPnzbTVXfXxYXhPnlY=
+
+Name: sun/security/mscapi/KeyStore$MY.class
+SHA1-Digest: hqgasl4dMImPAuoYxforxJNV75k=
+
+Name: sun/security/mscapi/RSAPrivateKey.class
+SHA1-Digest: jbVgYzdjbB7Y6m1lfN/SiGBfCrE=
+
+Name: sun/security/mscapi/RSACipher.class
+SHA1-Digest: rXmc4bDtAOZjgsl/rlpfnHV+QHU=
+
+Name: sun/security/mscapi/KeyStore$1.class
+SHA1-Digest: Ctlk8fmfrMTS0RHfw5COANX5L7Q=
+
+Name: sun/security/mscapi/SunMSCAPI$1.class
+SHA1-Digest: f/F6QVBiNcfrVXrofyPHwRrn9bg=
+
+Name: sun/security/mscapi/KeyStore$KeyEntry.class
+SHA1-Digest: aduM7n0SfzBuwyWRnNxzQIRSof8=
+
+Name: sun/security/mscapi/SunMSCAPI.class
+SHA1-Digest: AWg9Y9FUH1PKht/tEaBLq6KM3Pc=
+
+Name: sun/security/mscapi/RSASignature$SHA512.class
+SHA1-Digest: 78YT0WHqZgN2rsicEYYkszTqRB4=
+
+Name: source_tips
+SHA1-Digest: Mlt8+ztV/XYrOfumBo7Dra6QsOI=
+
+Name: sun/security/mscapi/Key$NativeHandles.class
+SHA1-Digest: jKKn/b5fgHD+HKpUycy6oF6igjY=
+
+Name: sun/security/mscapi/RSAKeyPair.class
+SHA1-Digest: srX1EgXt0uP/kB5oBey1Jk2SdRs=
+
+Name: sun/security/mscapi/RSASignature$SHA384.class
+SHA1-Digest: QDY+FQzYI+dg2zqc/94fqAAsW0w=
+
+Name: sun/security/mscapi/RSASignature.class
+SHA1-Digest: mNqP0fSRa4zYg21fEtyCRt+Dyf0=
+
+Name: sun/security/mscapi/RSASignature$Raw.class
+SHA1-Digest: nunyq+mJeuawIsg9dsuYl4pSHmw=
+
+Name: sun/security/mscapi/PRNG.class
+SHA1-Digest: ewyEWmrWnrAYMrH0oeusOxMriZw=
+
+Name: sun/security/mscapi/RSASignature$MD2.class
+SHA1-Digest: w3xPIeiow0xCeOxUfiFLRbQLB4I=
+
+Name: sun/security/mscapi/Key.class
+SHA1-Digest: KrIHjwqMFe92Fu6s7PTXtqSi7tM=
+
+Name: sun/security/mscapi/RSAPublicKey.class
+SHA1-Digest: 3SmYMKCLWaP3tIcKsRjVJGFmB/c=
+
+Name: sun/security/mscapi/RSASignature$SHA1.class
+SHA1-Digest: WCNEWdz3/mLPKmzj96+5hf37Mo4=
+
+Name: sun/security/mscapi/RSASignature$MD5.class
+SHA1-Digest: ot4we6VpJ+J1eC8VRH4qfVp1mKk=
+
+Name: sun/security/mscapi/KeyStore$ROOT.class
+SHA1-Digest: vGfMUUFyLCc3Wc7LsUZZ/1jkn2Y=
+
+Name: sun/security/mscapi/KeyStore.class
+SHA1-Digest: K5i067CX8+1d1PrJCRuUKwsHOaA=
+

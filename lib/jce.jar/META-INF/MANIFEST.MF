@@ -1,0 +1,235 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Oracle Corporation
+Implementation-Title: Java Runtime Environment
+Implementation-Version: 1.8.0_191
+Implementation-Vendor-Id: com.sun
+Specification-Vendor: Oracle Corporation
+Specification-Title: Java Platform API Specification
+Created-By: 1.7.0_07 (Oracle Corporation)
+Specification-Version: 1.8
+Extension-Name: javax.crypto
+
+Name: javax/crypto/spec/PSource$PSpecified.class
+SHA1-Digest: ZOOxUn3sUu8DGldyui9ub55e49U=
+
+Name: javax/crypto/CipherInputStream.class
+SHA1-Digest: OzcpZVfGhODFEKG92r+dJ6xB9JM=
+
+Name: javax/crypto/CipherSpi.class
+SHA1-Digest: HPE6bhnFMf41QYBUJ+mLZ4GmhNI=
+
+Name: javax/crypto/CryptoPermissions.class
+SHA1-Digest: hzQUM07EU2q2AcWuUQN1YKE9ai8=
+
+Name: javax/crypto/JceSecurityManager.class
+SHA1-Digest: TElDvu8BgAnOmpVrEOfV/2uneZs=
+
+Name: javax/crypto/JarVerifier$JarHolder.class
+SHA1-Digest: ymxnr0u3L+63LautJdEY31w+UGs=
+
+Name: javax/crypto/PermissionsEnumerator.class
+SHA1-Digest: UBV2vLNHpRXXByvIdY8uzHG33hQ=
+
+Name: javax/crypto/AEADBadTagException.class
+SHA1-Digest: bD9uCjo0/y62CS6b0pNNYSOeAt4=
+
+Name: javax/crypto/JceSecurity.class
+SHA1-Digest: xIeX7pshMVyPUcnXfNrm/gw02Xo=
+
+Name: javax/crypto/JceSecurityManager$1.class
+SHA1-Digest: yvG83Us8tpkgvtGV30/Vk001w6Y=
+
+Name: javax/crypto/spec/PBEParameterSpec.class
+SHA1-Digest: uyXio4/emDPKx2hF8Ck+9Dtm6lk=
+
+Name: javax/crypto/spec/PBEKeySpec.class
+SHA1-Digest: fbeZupJS7uB5WQkCTUg01r4fpnQ=
+
+Name: javax/crypto/ExemptionMechanism.class
+SHA1-Digest: iYkbRa0/JOlA2s3GnXdROMqBQh0=
+
+Name: javax/crypto/spec/RC2ParameterSpec.class
+SHA1-Digest: 4ctKip9RkIl7NgS/OzyRVfbrxs4=
+
+Name: javax/crypto/interfaces/DHPrivateKey.class
+SHA1-Digest: gJ6aUpPQCPoXYRajdx6jLzoF+wY=
+
+Name: sun/security/internal/spec/TlsRsaPremasterSecretParameterSpec$1.
+ class
+SHA1-Digest: mMoI0JpVYIYTUWSmpxY0b8jqeQw=
+
+Name: javax/crypto/CryptoPolicyParser$ParsingException.class
+SHA1-Digest: O0ECgPH7+du74Tl+iamAaGfYTI4=
+
+Name: javax/crypto/EncryptedPrivateKeyInfo.class
+SHA1-Digest: DpLiZz9AxfRlBwYF8V6cyEMbuDU=
+
+Name: javax/crypto/NullCipherSpi.class
+SHA1-Digest: XGJn/QMV/3Qn3hlTabYOUMcmB9E=
+
+Name: javax/crypto/ExemptionMechanismException.class
+SHA1-Digest: fsbmVx352sKSUE7zFL2uFCKGB1g=
+
+Name: javax/crypto/Mac.class
+SHA1-Digest: 92v0uh9WHNewINtMpiHGlTFPYrs=
+
+Name: javax/crypto/spec/DHPrivateKeySpec.class
+SHA1-Digest: qDAfzq8qY56bbnfdZOz1UCe4BPQ=
+
+Name: javax/crypto/spec/RC5ParameterSpec.class
+SHA1-Digest: eLO5ku82wOScRFzLT+L0EE8Ea5o=
+
+Name: javax/crypto/KeyGenerator.class
+SHA1-Digest: iltwjQBh4dmxNIJy9bUl/wy+Pl4=
+
+Name: sun/security/internal/spec/TlsKeyMaterialSpec.class
+SHA1-Digest: x505BEVOktTT0ydGER0+K/qxRWI=
+
+Name: javax/crypto/CryptoPolicyParser$CryptoPermissionEntry.class
+SHA1-Digest: YTcH9kDEiYiD86i73CeIM4LcmzE=
+
+Name: javax/crypto/JarVerifier$2.class
+SHA1-Digest: IBVFbvyk4Mh6wlg3n1vX8lgBpwo=
+
+Name: javax/crypto/NullCipher.class
+SHA1-Digest: 8LB83AvtxrQKLQaI7pWlWn2Elyo=
+
+Name: javax/crypto/CryptoAllPermission.class
+SHA1-Digest: bj2Vx8bxsKhGwRQ4wEUQVw5p76c=
+
+Name: javax/crypto/spec/DHGenParameterSpec.class
+SHA1-Digest: l58vys/jDj0dNi338nX7F3b9o8M=
+
+Name: javax/crypto/MacSpi.class
+SHA1-Digest: 56BAvaCbss4MavAYq++9vabXoeM=
+
+Name: javax/crypto/interfaces/DHKey.class
+SHA1-Digest: n+XsI/jPd2oGxy5YhS05FxSfjho=
+
+Name: javax/crypto/spec/DHParameterSpec.class
+SHA1-Digest: +mEFmljQ1tQZ+AmBjTxWKlrycjA=
+
+Name: javax/crypto/CryptoAllPermissionCollection.class
+SHA1-Digest: ZVLmkNx8gXvOkqtUzTUcbT24zeU=
+
+Name: javax/crypto/spec/DESedeKeySpec.class
+SHA1-Digest: y04OLqWvM7rnA9H3fSKu8+t7wJM=
+
+Name: javax/crypto/SecretKeyFactorySpi.class
+SHA1-Digest: dsuwec+WU67FQXuIGybvdqhNBEI=
+
+Name: javax/crypto/spec/PSource.class
+SHA1-Digest: Lwe9hI79lBK6WOPwwmNP7JlBDcA=
+
+Name: javax/crypto/JarVerifier$1.class
+SHA1-Digest: dHWioyaesEOPQfFrgGglE6A/bJg=
+
+Name: javax/crypto/JceSecurity$2.class
+SHA1-Digest: bTe+3jUH28kbhu5NtZGPtX2ooYw=
+
+Name: javax/crypto/ShortBufferException.class
+SHA1-Digest: WnWQv3xrIeZZmaZNVeEjkSm02HY=
+
+Name: source_tips
+SHA1-Digest: /LqmALnKrtZU9aFpQ78TAHBXblA=
+
+Name: javax/crypto/spec/DESKeySpec.class
+SHA1-Digest: pO2RKq8HwObYoR7kUt1QPdlxM/M=
+
+Name: javax/crypto/CryptoPermissionCollection.class
+SHA1-Digest: YoqyosBEGsaoogGIdi7Z1Dkl32s=
+
+Name: javax/crypto/IllegalBlockSizeException.class
+SHA1-Digest: tpefhD7+U5bQR1ctPZ+TN1y7FR4=
+
+Name: sun/security/internal/spec/TlsPrfParameterSpec.class
+SHA1-Digest: 2AHEPVn71Ds63URls4D3B40IAko=
+
+Name: javax/crypto/CryptoPolicyParser.class
+SHA1-Digest: FQflbwfMOJgCHl9UuOGi4LuJ8QY=
+
+Name: javax/crypto/JarVerifier.class
+SHA1-Digest: HUkFfc9JbeACX5ZBjdFnlYxhi98=
+
+Name: javax/crypto/KeyAgreementSpi.class
+SHA1-Digest: aA1RVhYToUGmRnjZMwh2phpmcLc=
+
+Name: javax/crypto/ExemptionMechanismSpi.class
+SHA1-Digest: oFZiNW5QvN3ArC14AmfkrY93zSU=
+
+Name: javax/crypto/KeyAgreement.class
+SHA1-Digest: 585hhR4btnxbjIrCBqBWf0zTh2Y=
+
+Name: javax/crypto/Cipher.class
+SHA1-Digest: WkpdgdQXRzmGVpRPIhFZQdq9Tas=
+
+Name: javax/crypto/KeyGeneratorSpi.class
+SHA1-Digest: 9GN2EM9yMb1/Ue2k3Vzpqpfqcfc=
+
+Name: javax/crypto/CipherOutputStream.class
+SHA1-Digest: caZMQdDHUdeXpiqL8kFrVPS0JQM=
+
+Name: javax/crypto/spec/IvParameterSpec.class
+SHA1-Digest: Cf10YwahVzz9nkb9+eVP2zpy31g=
+
+Name: sun/security/internal/interfaces/TlsMasterSecret.class
+SHA1-Digest: CmlUrUN+pIlmSu0cflPqUGMJBFE=
+
+Name: javax/crypto/Cipher$Transform.class
+SHA1-Digest: LVATsrVEq67/3n6aMkW1uitukaw=
+
+Name: javax/crypto/CryptoPermission.class
+SHA1-Digest: DdpMlLH4nIZVBBH+alXwsZtye1s=
+
+Name: javax/crypto/spec/OAEPParameterSpec.class
+SHA1-Digest: 9NKWU37OfqRwtEEbuhOX0a66YQw=
+
+Name: javax/crypto/spec/DHPublicKeySpec.class
+SHA1-Digest: wXmxD47llIl4qX/HK/72NcBxOus=
+
+Name: javax/crypto/spec/GCMParameterSpec.class
+SHA1-Digest: efekkg3UJlZnXW8hwE4wHXUkp7U=
+
+Name: javax/crypto/interfaces/PBEKey.class
+SHA1-Digest: y5aq1hHGvQLC0qCGXmHpNec7DoU=
+
+Name: javax/crypto/NoSuchPaddingException.class
+SHA1-Digest: mKTKzv+m1Ua3+HHHbSFSoSezqHM=
+
+Name: sun/security/internal/spec/TlsKeyMaterialParameterSpec.class
+SHA1-Digest: oCcb7CO41OMkFsYaZ2RqeeDkCsc=
+
+Name: javax/crypto/BadPaddingException.class
+SHA1-Digest: A7ShMZdePNtTsrFzomXrpphQhHw=
+
+Name: javax/crypto/CryptoPolicyParser$GrantEntry.class
+SHA1-Digest: ulSLMUOFPkzhkBaBRSg2+F0C4HU=
+
+Name: javax/crypto/SecretKey.class
+SHA1-Digest: oLdPHCyp7GwvBlOCrUerZKTJ0fc=
+
+Name: sun/security/internal/spec/TlsMasterSecretParameterSpec.class
+SHA1-Digest: rllCz7/tyC4Lt52ayiZHlQHACfA=
+
+Name: javax/crypto/extObjectInputStream.class
+SHA1-Digest: OAQEPsNy9qMWVoZob6TCve4iXnY=
+
+Name: sun/security/internal/spec/TlsRsaPremasterSecretParameterSpec.cl
+ ass
+SHA1-Digest: pg6JJMGBngRHxPAYZkRv2KjUtbo=
+
+Name: javax/crypto/SealedObject.class
+SHA1-Digest: /QTQfa2Xp1yzA/A0Zz+ORgA/WQQ=
+
+Name: javax/crypto/SecretKeyFactory.class
+SHA1-Digest: l5QiBN+1iwIpLvjE7lS1+B3OWek=
+
+Name: javax/crypto/JceSecurity$1.class
+SHA1-Digest: xl0NyngIOxD5CCXIYxIKzNHNtI8=
+
+Name: javax/crypto/spec/SecretKeySpec.class
+SHA1-Digest: 2RFR05vSwa5k5Zbs83fr3aJLYXY=
+
+Name: javax/crypto/interfaces/DHPublicKey.class
+SHA1-Digest: V6NuoMc2t7rRl1fvuz7pR5NKirI=
+

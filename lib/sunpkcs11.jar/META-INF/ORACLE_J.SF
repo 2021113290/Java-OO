@@ -1,0 +1,354 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: WLpmFFQionP+AHp4POc3KqsSNFA=
+Created-By: 1.6.0_26 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: ALrLKwkzj/YRZstJmHpnj7ix8LU=
+
+Name: sun/security/pkcs11/P11Key$P11DHPrivateKey.class
+SHA1-Digest: bODHgSKHZRzrdAV9rDgvrfHmlUQ=
+
+Name: sun/security/pkcs11/wrapper/CK_X9_42_DH2_DERIVE_PARAMS.class
+SHA1-Digest: wP+Dgi5BO6D6cKz5T8l4VCaLIb8=
+
+Name: sun/security/pkcs11/P11Util.class
+SHA1-Digest: i/wbce/5InFnceeBEUHFJtYsSQU=
+
+Name: sun/security/pkcs11/P11Cipher.class
+SHA1-Digest: ksycxjIbIDY4l+x+aVB0pJ7Gs8w=
+
+Name: sun/security/pkcs11/wrapper/CK_PBE_PARAMS.class
+SHA1-Digest: +M7WRuBAhyUYfPorlpPaxOOI6xc=
+
+Name: sun/security/pkcs11/Session.class
+SHA1-Digest: WCAmw9uec3u4m6SbXMITgw7Q4N8=
+
+Name: sun/security/pkcs11/wrapper/CK_NOTIFY.class
+SHA1-Digest: PT1pFnu4PL00KQ1Sao3/nC9Zuqk=
+
+Name: sun/security/pkcs11/Config.class
+SHA1-Digest: Es1SAEE25qwSM5hbNgJEkWK7EZU=
+
+Name: sun/security/pkcs11/SunPKCS11.class
+SHA1-Digest: 3CczhsN8ngMhDHwbkNJmQtgadDc=
+
+Name: sun/security/pkcs11/SunPKCS11$3.class
+SHA1-Digest: T38o+mGDk/FEn+hfPZPwPnDcrd4=
+
+Name: sun/security/pkcs11/SessionManager$Pool.class
+SHA1-Digest: bEcGZPeMdq8iLTte5wwL59YzRQA=
+
+Name: sun/security/pkcs11/P11Key$P11RSAPrivateKey.class
+SHA1-Digest: N3CE46P4ccy1oJFfXuEu6eR99a0=
+
+Name: sun/security/pkcs11/wrapper/CK_ECDH1_DERIVE_PARAMS.class
+SHA1-Digest: PlPNpqZhLMI8cY0J+fZ6IkQcaZ0=
+
+Name: sun/security/pkcs11/Secmod$Bytes.class
+SHA1-Digest: oyfgWjIR11AnGF0tBqmFTcjF1jc=
+
+Name: sun/security/pkcs11/P11Cipher$PKCS5Padding.class
+SHA1-Digest: Xu/lCMNwRXoMMZSpPZJ4pIywbis=
+
+Name: sun/security/pkcs11/wrapper/CK_MECHANISM_INFO.class
+SHA1-Digest: 20Z7JKJq301Ff4kXq3hUNDA5jO0=
+
+Name: sun/security/pkcs11/P11SecureRandom.class
+SHA1-Digest: aWxQYZtAhy6QDN8vdQkbqPTqcrM=
+
+Name: sun/security/pkcs11/wrapper/CK_DATE.class
+SHA1-Digest: 8s1dKVPYD6PJ9z/X7uSIBh2OzVs=
+
+Name: sun/security/pkcs11/P11Key.class
+SHA1-Digest: te8H33U6NU/UUm9dlyOxf+neGiI=
+
+Name: sun/security/pkcs11/P11Key$P11DSAPrivateKey.class
+SHA1-Digest: t91Z8wfwxPNFRRbkS/CiyBqQY+4=
+
+Name: sun/security/pkcs11/wrapper/CK_VERSION.class
+SHA1-Digest: jXYd/f2bKBO/sdDHVOr9LUDBjDU=
+
+Name: sun/security/pkcs11/P11ECDHKeyAgreement.class
+SHA1-Digest: hcJ99hTnQ2sJAG7y/vuacbd5Em8=
+
+Name: sun/security/pkcs11/P11Digest.class
+SHA1-Digest: 0Nkq/l38KbWQVORk2uT4gwJUz3c=
+
+Name: sun/security/pkcs11/P11Key$P11ECPublicKey.class
+SHA1-Digest: XSfw8pmDY8wOmdo0qsFyFMjHEXY=
+
+Name: sun/security/pkcs11/wrapper/PKCS11$1.class
+SHA1-Digest: RO7LKogaMnMQoRJNNru0vc6VSvo=
+
+Name: sun/security/pkcs11/SunPKCS11$P11Service.class
+SHA1-Digest: t5UdGZVDgR3q96mkp4+5ASfpveg=
+
+Name: sun/security/pkcs11/wrapper/CK_SSL3_KEY_MAT_PARAMS.class
+SHA1-Digest: MYi4uK1OvMA2ux+twNlICDbermo=
+
+Name: sun/security/pkcs11/SessionRef.class
+SHA1-Digest: lOM+sUdoZvGHgW3iAT010FxCtXI=
+
+Name: sun/security/pkcs11/ConstructKeys.class
+SHA1-Digest: cuBaUgOrJb+i3W1KBaQa38yTvwk=
+
+Name: sun/security/pkcs11/wrapper/Functions$Flags.class
+SHA1-Digest: xDxHJWCKEI4KpK0MeUQSwP+l2W0=
+
+Name: sun/security/pkcs11/wrapper/CK_INFO.class
+SHA1-Digest: DpTt9M3jNfek/JeRGt/BG+OGzeo=
+
+Name: sun/security/pkcs11/P11SecretKeyFactory.class
+SHA1-Digest: 9mUIFz6li0YCSb395oAeFG5+QA8=
+
+Name: sun/security/pkcs11/wrapper/CK_RSA_PKCS_PSS_PARAMS.class
+SHA1-Digest: SizPfa4xxaI1vxXt3iFE3qy5RwI=
+
+Name: sun/security/pkcs11/P11TlsPrfGenerator$1.class
+SHA1-Digest: xyOGxWU9uNrw340tHC6jgdjJ4l8=
+
+Name: sun/security/pkcs11/P11Key$P11PrivateKey.class
+SHA1-Digest: FJwTUSvZzbc9izGbC3tyu8ZzmL0=
+
+Name: sun/security/pkcs11/wrapper/PKCS11Constants.class
+SHA1-Digest: GV+C4DmmGDXRCPj6Nw/ZUbba05o=
+
+Name: source_tips
+SHA1-Digest: B/oDTQrIuWQQpgjqFAvAves1C4E=
+
+Name: sun/security/pkcs11/wrapper/CK_LOCKMUTEX.class
+SHA1-Digest: UYrfKOp7xcKL5Ad5kver3EhFKBk=
+
+Name: sun/security/pkcs11/P11Key$P11TlsMasterSecretKey.class
+SHA1-Digest: KubBlfMKogVZnNEA99KzOArfx5o=
+
+Name: sun/security/pkcs11/SessionKeyRef.class
+SHA1-Digest: i7bxImXHBJG5dKvEux0n4szS2xg=
+
+Name: sun/security/pkcs11/P11TlsKeyMaterialGenerator.class
+SHA1-Digest: hMSRZt27SGoFcZaV4BJOksNkaUw=
+
+Name: sun/security/pkcs11/wrapper/CK_TLS_PRF_PARAMS.class
+SHA1-Digest: CU0HzcK04S8lmL5EUKcmSXKxwz0=
+
+Name: sun/security/pkcs11/TemplateManager$KeyAndTemplate.class
+SHA1-Digest: jbNrrMsTPeVpzpKAw6st/pTaNTc=
+
+Name: sun/security/pkcs11/wrapper/Constants.class
+SHA1-Digest: BWGr1MuvFT7CWOTxvSlI2PsDStk=
+
+Name: sun/security/pkcs11/P11Key$P11RSAPrivateNonCRTKey.class
+SHA1-Digest: iY2JyT0GmsjpZ+hbzC07rVWFAWY=
+
+Name: sun/security/pkcs11/wrapper/PKCS11$SynchronizedPKCS11.class
+SHA1-Digest: DPng6364tEZS2OEiyrJfphwfVyI=
+
+Name: sun/security/pkcs11/Secmod.class
+SHA1-Digest: PfQo/YfndLqohK19LCCZCrDd14c=
+
+Name: sun/security/pkcs11/wrapper/CK_SESSION_INFO.class
+SHA1-Digest: p0nOZq+Pn9LXx399fsX+igAw2ws=
+
+Name: sun/security/pkcs11/wrapper/CK_SSL3_KEY_MAT_OUT.class
+SHA1-Digest: Rk6I3zRKba6JtNfbwZ1oU4b1coI=
+
+Name: sun/security/pkcs11/KeyCache$IdentityWrapper.class
+SHA1-Digest: GXX2i0AcWd+6NOOYPInJj4D5pjs=
+
+Name: sun/security/pkcs11/wrapper/CK_RSA_PKCS_OAEP_PARAMS.class
+SHA1-Digest: Q17xV1x50IRGmS4InL5F2zwV3XA=
+
+Name: sun/security/pkcs11/Secmod$Module.class
+SHA1-Digest: Xky9Eoab9GhE0qBbEEYjW3Kx8tk=
+
+Name: sun/security/pkcs11/P11KeyAgreement$AllowKDF.class
+SHA1-Digest: Cfmp+HxKy0V8dX2OvTx6eW5y+kQ=
+
+Name: sun/security/pkcs11/P11ECUtil.class
+SHA1-Digest: l6uU7IeI6/waSkLZrhO0KgMzfnk=
+
+Name: sun/security/pkcs11/wrapper/CK_ECDH2_DERIVE_PARAMS.class
+SHA1-Digest: V9gLoI/3CXDj49l6gdb7eDqUs90=
+
+Name: sun/security/pkcs11/P11TlsPrfGenerator.class
+SHA1-Digest: fXZ0bi7tHnnl7lxVHGPqa5V3YNE=
+
+Name: sun/security/pkcs11/SunPKCS11$1.class
+SHA1-Digest: ChznZ9sjZDHDC2V/t9fnxSL3E6I=
+
+Name: sun/security/pkcs11/wrapper/CK_UNLOCKMUTEX.class
+SHA1-Digest: nowmFPmLa/NyKZseU9o4mxZot3g=
+
+Name: sun/security/pkcs11/P11Key$P11SecretKey.class
+SHA1-Digest: O+/m7n8PLO8cngJBe7mY/wlZp8Q=
+
+Name: sun/security/pkcs11/Secmod$DbMode.class
+SHA1-Digest: v4uZTMGHvANCUL7UDcBD7nAztHw=
+
+Name: sun/security/pkcs11/P11DHKeyFactory.class
+SHA1-Digest: cJXK30teKa+tKfvVku9WH0lFQS0=
+
+Name: sun/security/pkcs11/P11DSAKeyFactory.class
+SHA1-Digest: Q7rdVf24wyVHojG3Tv9mhKHkbd0=
+
+Name: sun/security/pkcs11/P11ECKeyFactory.class
+SHA1-Digest: yuKzjljCdmsLIyFq9gg/wQQBBmU=
+
+Name: sun/security/pkcs11/TemplateManager$Template.class
+SHA1-Digest: rsvvo+5pVzplsuVGE+bYVbDg9nA=
+
+Name: sun/security/pkcs11/P11KeyStore$AliasInfo.class
+SHA1-Digest: W2WovhNusUFMMuaX+TboCeQmkAM=
+
+Name: sun/security/pkcs11/P11RSACipher.class
+SHA1-Digest: YpvbJemB64GVgi/1qJ9ggw59PGE=
+
+Name: sun/security/pkcs11/P11TlsRsaPremasterSecretGenerator.class
+SHA1-Digest: nyNdma8jyAhipCCWbURLXf/M42M=
+
+Name: sun/security/pkcs11/SunPKCS11$SunPKCS11Rep.class
+SHA1-Digest: GJNc/ERETqbf1i82Z00yxkWNktI=
+
+Name: sun/security/pkcs11/P11KeyAgreement.class
+SHA1-Digest: IaFtFZHJkcCvs4B/bTh8X3jck2U=
+
+Name: sun/security/pkcs11/wrapper/PKCS11Exception.class
+SHA1-Digest: Ffc78CO+uSpKUBrd6vblghG6Acs=
+
+Name: sun/security/pkcs11/SessionManager.class
+SHA1-Digest: u960DZMphe/ef8HHvyWneBtYFmo=
+
+Name: sun/security/pkcs11/P11Key$P11DSAPublicKey.class
+SHA1-Digest: Nli2fXNAZTNPs6E8L3b2I7k5vpU=
+
+Name: sun/security/pkcs11/wrapper/CK_PKCS5_PBKD2_PARAMS.class
+SHA1-Digest: 35pHnZsQB0znUbiepcr5CgPDi1o=
+
+Name: sun/security/pkcs11/wrapper/CK_X9_42_DH1_DERIVE_PARAMS.class
+SHA1-Digest: E2FDopm0MS0aapli4qEWYp0rmfI=
+
+Name: sun/security/pkcs11/wrapper/CK_ATTRIBUTE.class
+SHA1-Digest: 21/g57EoZeV47eN3kunpVCc6K8A=
+
+Name: sun/security/pkcs11/wrapper/CK_CREATEMUTEX.class
+SHA1-Digest: Yz5WbZdOcDVrdIQoZy6YUhdglpY=
+
+Name: sun/security/pkcs11/Token.class
+SHA1-Digest: A8KBuv5qeZlsayNPkjXL0J/n0Y8=
+
+Name: sun/security/pkcs11/Secmod$ModuleType.class
+SHA1-Digest: VUA4r5Zw7A2BV+oDnm4u/h5G5kA=
+
+Name: sun/security/pkcs11/wrapper/CK_C_INITIALIZE_ARGS.class
+SHA1-Digest: +CN9xUD9IQv/zziGi6n2lpdgKZs=
+
+Name: sun/security/pkcs11/P11Key$P11DHPublicKey.class
+SHA1-Digest: f9WLwMeSrvgc7WAZfjkbkEyiSb8=
+
+Name: sun/security/pkcs11/TemplateManager.class
+SHA1-Digest: lTSITm9lYEVT/VkKWfIOT2A576Y=
+
+Name: sun/security/pkcs11/P11Mac.class
+SHA1-Digest: iPJTQkSaKFstlsvbudhpYHPFXPE=
+
+Name: sun/security/pkcs11/P11Key$P11ECPrivateKey.class
+SHA1-Digest: jJYfC61N8X8hAB14OaLbGYMyOK0=
+
+Name: sun/security/pkcs11/KeyCache.class
+SHA1-Digest: CcAk9gr54gcc3/BF8jZ0i9KkeD8=
+
+Name: sun/security/pkcs11/wrapper/PKCS11RuntimeException.class
+SHA1-Digest: fJTJvHri2OgCVxjtdi2insznupg=
+
+Name: sun/security/pkcs11/P11Key$P11RSAPublicKey.class
+SHA1-Digest: 4tP+lSlTekJRnaeZkgoCzYC1rjw=
+
+Name: sun/security/pkcs11/Secmod$KeyStoreLoadParameter.class
+SHA1-Digest: UaRKQPLoivm9DIH4dKiGdXHBpyM=
+
+Name: sun/security/pkcs11/wrapper/CK_SSL3_RANDOM_DATA.class
+SHA1-Digest: j/HB0mP42/7REOFVCs7eN6+4b8Q=
+
+Name: sun/security/pkcs11/P11TlsMasterSecretGenerator.class
+SHA1-Digest: CDBnYl/o06Oz/tW2+iEWv59vMqE=
+
+Name: sun/security/pkcs11/P11KeyFactory.class
+SHA1-Digest: kM2ltmdzBHS+gaVamLadsShQy8Q=
+
+Name: sun/security/pkcs11/SunPKCS11$TokenPoller.class
+SHA1-Digest: 12k+B9+2llCpQFZ7GvTVCXc9Xac=
+
+Name: sun/security/pkcs11/ConfigurationException.class
+SHA1-Digest: tmRQM4WkYG5J+RBr50nPbaSztCU=
+
+Name: sun/security/pkcs11/P11KeyStore.class
+SHA1-Digest: FjVgdfUJShurWzHjlrnfemd+7PY=
+
+Name: sun/security/pkcs11/wrapper/CK_MECHANISM.class
+SHA1-Digest: 8kFAj5gYbqvUpB2cwmxYB6crJtY=
+
+Name: sun/security/pkcs11/P11Cipher$Padding.class
+SHA1-Digest: TZV+K2oNBOWWbJzQFYpLMA8Wp5M=
+
+Name: sun/security/pkcs11/wrapper/CK_SLOT_INFO.class
+SHA1-Digest: Jq3cLbl9y43SNcioiBo4sT3hZw4=
+
+Name: sun/security/pkcs11/Secmod$TrustType.class
+SHA1-Digest: hZmrpoFx6rDPLKT7gARuLGKHNM0=
+
+Name: sun/security/pkcs11/P11KeyPairGenerator.class
+SHA1-Digest: UF5dQsByyMluxlFYDdMA3bpNalI=
+
+Name: sun/security/pkcs11/wrapper/CK_TOKEN_INFO.class
+SHA1-Digest: IvG62RoRSwfgbL6S8fFn3umps18=
+
+Name: sun/security/pkcs11/Token$TokenRep.class
+SHA1-Digest: 15G93R8o0RyudEGhOjQiqVRA6e8=
+
+Name: sun/security/pkcs11/SunPKCS11$Descriptor.class
+SHA1-Digest: xyKFxkIb8NyjFG5NHwVU4JDttEY=
+
+Name: sun/security/pkcs11/wrapper/CK_DESTROYMUTEX.class
+SHA1-Digest: hOWNEWbSmHta1x0ilpE5BTzW35k=
+
+Name: sun/security/pkcs11/P11KeyStore$PasswordCallbackHandler.class
+SHA1-Digest: yOrbjr3H2JO+wR56RPxiLxam8DM=
+
+Name: sun/security/pkcs11/wrapper/CK_SSL3_MASTER_KEY_DERIVE_PARAMS.cla
+ ss
+SHA1-Digest: 4+vUqQN9f/NlyWRPbmkbOGcq3EQ=
+
+Name: sun/security/pkcs11/wrapper/CK_AES_CTR_PARAMS.class
+SHA1-Digest: o0NJM6/UeRtKBrx/eJrwOQUYZDs=
+
+Name: sun/security/pkcs11/P11KeyStore$1.class
+SHA1-Digest: QvWpMhNzwn+KwjzcZcSjapVStPg=
+
+Name: sun/security/pkcs11/Secmod$TrustAttributes.class
+SHA1-Digest: e5V0GpIq/uOK1stlpXitfV3TcuM=
+
+Name: sun/security/pkcs11/P11KeyStore$THandle.class
+SHA1-Digest: LjGf201X+xhmtJY8LHnHc406g/k=
+
+Name: sun/security/pkcs11/wrapper/PKCS11.class
+SHA1-Digest: VycuOoVsR8+rgH8phZc7E/euRzI=
+
+Name: sun/security/pkcs11/P11RSAKeyFactory.class
+SHA1-Digest: ZmhtfVreBWHBcMQPLqLr/L+oDog=
+
+Name: sun/security/pkcs11/wrapper/Functions.class
+SHA1-Digest: xW/hhrP3Jl5xN+GvicN68hnNMTI=
+
+Name: sun/security/pkcs11/TemplateManager$TemplateKey.class
+SHA1-Digest: iHbYB23fLZ2M822PridM+uqlQCE=
+
+Name: sun/security/pkcs11/Secmod$1.class
+SHA1-Digest: u8z2RToAsVkaeQGEIR/rXNgX6aU=
+
+Name: sun/security/pkcs11/P11KeyGenerator.class
+SHA1-Digest: VgWkACWrndvlBW0GdjviYcETLs0=
+
+Name: sun/security/pkcs11/P11Signature.class
+SHA1-Digest: rulNWQW8+Qc1vDsSxuMRSQifgKc=
+
+Name: sun/security/pkcs11/SunPKCS11$2.class
+SHA1-Digest: /3eAJzagVjMGnuqpDmeooOlbsYc=
+

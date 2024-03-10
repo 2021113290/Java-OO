@@ -1,0 +1,62 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: t9MftP2PfNKH/DLKCG/XxFZwoUo=
+Created-By: 1.6.0_26 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: ZTuTzSKJkQh6FXPyqudrb096be4=
+
+Name: sun/security/ec/CurveDB.class
+SHA1-Digest: nEC2QtHs6tMlbj4vHKRCgQsENV0=
+
+Name: sun/security/ec/SunECEntries.class
+SHA1-Digest: JIG32AiWMNfJm9AJk7nqwAGQhhg=
+
+Name: sun/security/ec/ECDSASignature$SHA1.class
+SHA1-Digest: x17+s3EC+Xmg8HlKboZjHlM/ehM=
+
+Name: sun/security/ec/ECDSASignature$SHA512.class
+SHA1-Digest: Bkh9rmKtB17UAQw74S++XxobnIg=
+
+Name: sun/security/ec/ECDSASignature$Raw.class
+SHA1-Digest: DzlHlJ/+U/E2rmmlDEusg7A+8Tk=
+
+Name: sun/security/ec/ECDHKeyAgreement.class
+SHA1-Digest: ee0TY4OK57qiLy6iOPht0WFt2h8=
+
+Name: sun/security/ec/ECKeyFactory.class
+SHA1-Digest: A2rrPTAy6nXbCcjUsiWIEbCoCBU=
+
+Name: sun/security/ec/NamedCurve.class
+SHA1-Digest: W9FGpK/Xa5GCTAqmTif6V15+Nz0=
+
+Name: sun/security/ec/SunEC.class
+SHA1-Digest: 7OBgYt5Nb7YwpqMhQOfRi9E9XSA=
+
+Name: source_tips
+SHA1-Digest: GV9v2TzsHPJa3drLNYFRX1l9FBI=
+
+Name: sun/security/ec/ECDSASignature$SHA384.class
+SHA1-Digest: 8DenzeFe5d4fwm41qH0g3Rd/EN8=
+
+Name: sun/security/ec/ECPrivateKeyImpl.class
+SHA1-Digest: yNH5NZZUbZTGNpN/kBcf2ubzR9o=
+
+Name: sun/security/ec/ECParameters.class
+SHA1-Digest: rzR9JRh+P02/EuKmUpeXrTdcC/s=
+
+Name: sun/security/ec/ECDSASignature$SHA224.class
+SHA1-Digest: Z5eAjDlqOzB6wgHpxrr/wTVcMYs=
+
+Name: sun/security/ec/ECDSASignature$SHA256.class
+SHA1-Digest: oA8UsRp1OrOTjlx0jDhwalT47Oc=
+
+Name: sun/security/ec/SunEC$1.class
+SHA1-Digest: wgemnbjoIFY3HFwr0eEcW3lzoKc=
+
+Name: sun/security/ec/ECPublicKeyImpl.class
+SHA1-Digest: bfsJbZ4B11IfMfZqfUngQjZlJlU=
+
+Name: sun/security/ec/ECKeyPairGenerator.class
+SHA1-Digest: q8XL6RlOm0qQYmcIwh2P0KQJboU=
+
+Name: sun/security/ec/ECDSASignature.class
+SHA1-Digest: bZ2nr4nZ+9b6w7tZ/oEdxpEFBoM=
+

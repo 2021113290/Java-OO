@@ -1,0 +1,68 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Oracle Corporation
+Implementation-Title: Java Runtime Environment
+Implementation-Version: 1.8.0_161
+Implementation-Vendor-Id: com.sun
+Specification-Vendor: Oracle Corporation
+Specification-Title: Java Platform API Specification
+Created-By: 1.7.0_07 (Oracle Corporation)
+Specification-Version: 1.8
+Extension-Name: javax.crypto
+
+Name: sun/security/ec/CurveDB.class
+SHA1-Digest: SXi9HnrzzdvmbwF1rY5HVqTbiZE=
+
+Name: sun/security/ec/SunECEntries.class
+SHA1-Digest: A8o6v+iA0ctlr5eCGdfnBYO0eoA=
+
+Name: sun/security/ec/ECDSASignature$SHA1.class
+SHA1-Digest: Up7Zc82QoV+FLV9xStz6lwXIGHw=
+
+Name: sun/security/ec/ECDSASignature$SHA512.class
+SHA1-Digest: eKURduxDZ4xVMO6dnjTHnMMA6eM=
+
+Name: sun/security/ec/ECDSASignature$Raw.class
+SHA1-Digest: PlFZ6R8eaK5jF2D1SLv2qB2+04o=
+
+Name: sun/security/ec/ECDHKeyAgreement.class
+SHA1-Digest: RPWaN1ZwOdqP9mfy/1mDrN6Kbys=
+
+Name: sun/security/ec/ECKeyFactory.class
+SHA1-Digest: OCYcj1TQt6aGX9gDyFy5r/9nKsM=
+
+Name: sun/security/ec/NamedCurve.class
+SHA1-Digest: bM/4F8GmBGR6MGaxTnU7EceHwI0=
+
+Name: sun/security/ec/SunEC.class
+SHA1-Digest: QOciD4xxn/5AgxqncDOXLpDCkCA=
+
+Name: source_tips
+SHA1-Digest: aZC+PxE/Lwfy6qC+YO7PMRFWOow=
+
+Name: sun/security/ec/ECDSASignature$SHA384.class
+SHA1-Digest: BV1oon1ClKwtv5bSoz/CRmL22wI=
+
+Name: sun/security/ec/ECPrivateKeyImpl.class
+SHA1-Digest: dkPv8H+7E8kT/woVM/7tOiIota0=
+
+Name: sun/security/ec/ECParameters.class
+SHA1-Digest: iZaOUUZDpaaH1MeDA+YTxUuMFXc=
+
+Name: sun/security/ec/ECDSASignature$SHA224.class
+SHA1-Digest: /+mbIfS+crrbgs6geSIFS+cyEAs=
+
+Name: sun/security/ec/SunEC$1.class
+SHA1-Digest: vFkcssdsuicZxQJ72+5N0sm+bgU=
+
+Name: sun/security/ec/ECDSASignature$SHA256.class
+SHA1-Digest: Fgb1lyNrU8mtWCV1XC5W2WWybX8=
+
+Name: sun/security/ec/ECPublicKeyImpl.class
+SHA1-Digest: tDlftAp9/HEy3fiZ/xUyuZmQGR4=
+
+Name: sun/security/ec/ECKeyPairGenerator.class
+SHA1-Digest: EKpr+AQDK7Mp22BfwrSkscRFSvw=
+
+Name: sun/security/ec/ECDSASignature.class
+SHA1-Digest: OsR+Q3YGJVMChsYg/cjFyIgo57M=
+
